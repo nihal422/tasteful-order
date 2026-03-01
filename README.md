@@ -1,7 +1,3 @@
-# tasteful-order
-First, solve the problem. Then, write the code.
-<br>
-Author - nihal422
 [Sign up page.html](https://github.com/user-attachments/files/25659357/Sign.up.page.html)
 
 <!DOCTYPE html>
